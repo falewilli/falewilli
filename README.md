@@ -6,9 +6,8 @@ Now I am on a path to become a Full Stack Developer and be a part of this incred
 
 See you on the other side ;)
 
-#Javascript #React #Redux
 
-- 🔭 I’m currently a Software Developer in the making and these are the technologies that I am learning:
+- 🔭 Languages and tools I am learning
 - Javascript
 - React
 - Redux
