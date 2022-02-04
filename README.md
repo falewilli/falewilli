@@ -2,7 +2,7 @@
 <br />
 Hey there, my name is Alejandro Willi. I am an Information Technology and integrated marketing communications professional with more than 25 years of experience. I am very creative yet very analytical, with excellent interpersonal communication and problem solving skills. Driven by a deep devotion for technology, love to work with clear objectives, multidisciplinary teams and always willing to innovate and streamline processes through continuous improvement. I never take anything for granted, just the fact that things can always be done in a better and in a more efficient way.<br />
 <br />
-Now I am on a path to become a Full Stack Developer and to be a part of this incredible universe that is programming, which is something I've always wanted. I remember coding my first video games in Basic language on a Texas Instruments TI-99/4A, when I was just a kid. ¡Good old days! Fortunately today thanks to Henry coding bootcamp in which I enrolled, the possibility of fulfilling that dream has been placed within my reach, and I am going to grab it!<br />
+Now I am on a path to become a Full Stack Developer and to be a part of this incredible universe that is programming, which is something I've always wanted. I remember coding my first video games in Basic in a Texas Instruments TI-99/4A, when I was just a kid. ¡Good old days! Fortunately today thanks to Henry coding bootcamp in which I enrolled, the possibility of fulfilling that dream has been placed within my reach, and I am going to grab it!<br />
 <br />
 See you on the other side!<br />
 <br />
