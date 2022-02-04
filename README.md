@@ -15,7 +15,7 @@ See you on the other side!<br />
   
 - 💼 You can reach me [here](mailto:alejandro.willi@gmail.com) :)<br />
 <br />
-- 💬 I am still learning and there's still a long road ahead, but feel free to ask me about anything. I am always happy to help!<br />
+💬 I am still learning and there's still a long road ahead, but feel free to ask me about anything. I am always happy to help!<br />
 <br />
 <br />
 
