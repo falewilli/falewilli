@@ -8,12 +8,12 @@ See you on the other side ;)
 
 
 - 🔭 Languages and tools I am learning
-- Javascript
-- React
-- Redux
-- HTML5
-- CSS
-- NodeJS
-- Expres
-- Sequelize
-- PostgreSQL
+#Javascript
+#React
+#Redux
+#HTML5
+#CSS
+#NodeJS
+#Expres
+#Sequelize
+#PostgreSQL
