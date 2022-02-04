@@ -10,7 +10,7 @@ See you on the other side!<br />
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 You can reach me [here](mailto:alejandro.willi@gmail.com) :)
-- <a href="https://www.linkedin.com/in/alejandro-willi/"><img align="left" alt="Alejandro Willi's LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a><--Check my LinkedIn profile <br />
+- <a href="https://www.linkedin.com/in/alejandro-willi/"><img align="left" alt="Alejandro Willi's LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a><- Check my LinkedIn profile<br />
 <br />
 💬 I am still learning and there's still a long road ahead, but feel free to ask me about anything. I am always happy to help!<br />
 <br />
