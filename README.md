@@ -13,7 +13,7 @@ See you on the other side!<br />
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 You can reach me [here](mailto:alejandro.willi@gmail) :)<br />
+- 💼 You can reach me [here](mailto:alejandro.willi@gmail.com) :)<br />
 <br />
 - 💬 I am still learning and there's still a long road ahead, but feel free to ask me about anything. I am always happy to help!<br />
 <br />
