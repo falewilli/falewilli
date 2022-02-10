@@ -13,6 +13,7 @@ See you on the other side!<br />
 - <a href="https://www.linkedin.com/in/alejandro-willi/"><img align="left" alt="Alejandro Willi's LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a><- Check my LinkedIn profile<br />
 <br />
 📄 Check out my first project <a href="https://pokemonjungle.vercel.app">Pokemon Jungle</a><br />
+<br />
 💬 I am still learning and there's a long road ahead of me yet, but feel free to ask me about anything. I am always happy to help!<br />
 <br />
 <br />
